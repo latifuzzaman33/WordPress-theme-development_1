@@ -1,0 +1,7 @@
+
+
+https://gist.github.com/mrmahbub7931?page=1
+
+https://therichpost.com/wordpress-query-to-get-woocommerce-products-order-by-sales-pricing-and-rating/
+
+https://woocommerce.github.io/code-reference/namespaces/default.html#function_wc_get_featured_product_ids
